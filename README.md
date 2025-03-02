@@ -1,4 +1,4 @@
-# React & Express 4 - Login System
+# React & Express - Login System
 
 ## 📌 Project Overview
 Sistem login sederhana menggunakan **React** untuk frontend dan **Express 4** sebagai backend. Autentikasi pengguna menggunakan **JWT (JSON Web Token)** dengan database yang sudah disediakan, sehingga siapa pun yang ingin meng-clone proyek ini tidak perlu membuat database dari awal.
